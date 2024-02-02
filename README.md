@@ -9,7 +9,7 @@ This repository is your go-to resource for mastering the skills required to ace 
 1. [Introduction](#introduction)
 2. [Getting Started](#getting-started)
 3. [Practice Exercises](#practice-exercises)
-   - [Module 1: Develop Azure Compute Solutions](#module-1-develop-azure-compute-solutions)
+   - [Module 1: Azure App Service (Web App)](#module-1-develop-azure-compute-solutions)
    - [Module 2: Develop for Azure Storage](#module-2-develop-for-azure-storage)
    - [Module 3: Implement Azure Security](#module-3-implement-azure-security)
    - [Module 4: Monitor, Troubleshoot, and Optimize Azure Solutions](#module-4-monitor-troubleshoot-and-optimize-azure-solutions)
